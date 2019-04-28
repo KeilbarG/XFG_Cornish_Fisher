@@ -1,8 +1,8 @@
-Name of QuantLet : NNQR_Heat
+Name of QuantLet : XFG_Cornish_Fisher
 
-Published in : 'Modelling Systemic Risk using Neural Network Quantile Regression'
+Published in : 'XFG'
 
-Description : 'Plots the average risk spillover effects over the whole estimation period as well as over the period within three months of the Lehman bankruptcy.'
+Description : 'Function for calculating the Cornish Fisher approximation for given quantile levels. Plots the extreme quantiles of the CF approximation vs. quantiles of the normal distribution.'
 
 Keywords : Systemic risk, quantile regression, neural networks, heat plot
 
@@ -10,4 +10,4 @@ See also : 'NNQR_CoVaR, NNQR_Network, NNQR_SNRI'
 
 Author : Georg Keilbar
 
-Submitted : October 8 2018 by Georg Keilbar
+Submitted : April 28 2019 by Georg Keilbar
