@@ -1,0 +1,13 @@
+Name of QuantLet : NNQR_Heat
+
+Published in : 'Modelling Systemic Risk using Neural Network Quantile Regression'
+
+Description : 'Plots the average risk spillover effects over the whole estimation period as well as over the period within three months of the Lehman bankruptcy.'
+
+Keywords : Systemic risk, quantile regression, neural networks, heat plot
+
+See also : 'NNQR_CoVaR, NNQR_Network, NNQR_SNRI'
+
+Author : Georg Keilbar
+
+Submitted : October 8 2018 by Georg Keilbar
