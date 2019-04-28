@@ -6,7 +6,7 @@ Description : 'Function for calculating the Cornish Fisher approximation for giv
 
 Keywords : Systemic risk, quantile regression, neural networks, heat plot
 
-See also : 'NNQR_CoVaR, NNQR_Network, NNQR_SNRI'
+See also : 'XFG_VaR_ES, XFGcofi, SPL_VAR_CVAR_Calculation'
 
 Author : Georg Keilbar
 
